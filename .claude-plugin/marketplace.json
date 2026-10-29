@@ -1,0 +1,13 @@
+{
+  "name": "aidd-2026-10-29",
+  "owner": {
+    "name": "Zenika-Training"
+  },
+  "plugins": [
+    {
+      "name": "training-skills",
+      "source": "./plugins/training-skills",
+      "description": "Skills contributed by AIDD training participants."
+    }
+  ]
+}
